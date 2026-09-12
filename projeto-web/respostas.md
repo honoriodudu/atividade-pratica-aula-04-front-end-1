@@ -34,14 +34,14 @@ O endereço de destino de um link é definido pelo atributo href.
 Um link interno direciona o usuário para outro arquivo ou recurso do próprio projeto. Um link externo direciona para uma página ou endereço fora do projeto.
 
 ## Atividade 12
-A tabela é representada por <table>; a linha por <tr>; a célula de cabeçalho por <th>; e a célula comum de dados por <td>.
+A tabela é representada por table; a linha por tr ; a célula de cabeçalho por th; e a célula comum de dados por td.
 
 ## Atividade 13
 Deve ser utilizado o prefixo mailto: seguido do endereço de e-mail (exemplo: mailto:contato@exemplo.com).
 
 ## Atividade 14
 O elemento <footer deve ser utilizado para representar o rodapé de um documento.
-
+c
 ## Atividade 15
 Deve ser utilizada a tag <link>. O atributo que informa que é uma folha de estilos é o rel="stylesheet".
 
