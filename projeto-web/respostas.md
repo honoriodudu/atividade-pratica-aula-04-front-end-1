@@ -10,7 +10,7 @@ A declaração <!DOCTYPE html> deve aparecer no início do documento para indica
 Deve ser utilizada a tag <title> dentro do <head> para definir o título da aba.
 
 ## Atividade 4
-A tag <h1> representa o título principal e a tag <p> representa um parágrafo.
+A tag h1 representa o título principal e a tag p representa um parágrafo.
 
 ## Atividade 5
 O elemento <section> deve ser utilizado para representar uma seção temática de conteúdo.
