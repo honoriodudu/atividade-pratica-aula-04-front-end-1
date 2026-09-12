@@ -4,28 +4,28 @@
 O arquivo index.html é responsável pela estrutura e pelo conteúdo da página. O arquivo style.css é responsável pela aparência e pelo layout (estilização).
 
 ## Atividade 2
-A declaração <!DOCTYPE html> deve aparecer no início do documento para indicar que ele utiliza HTML5.
+A declaração !DOCTYPE html deve aparecer no início do documento para indicar que ele utiliza HTML5.
 
 ## Atividade 3
-Deve ser utilizada a tag <title> dentro do <head> para definir o título da aba.
+Deve ser utilizada a tag title dentro do head para definir o título da aba.
 
 ## Atividade 4
 A tag h1 representa o título principal e a tag p representa um parágrafo.
 
 ## Atividade 5
-O elemento <section> deve ser utilizado para representar uma seção temática de conteúdo.
+O elemento section deve ser utilizado para representar uma seção temática de conteúdo.
 
 ## Atividade 6
-O elemento <nav> é utilizado para agrupar links de navegação. O atributo que define o destino do link na tag <a> é o href.
+O elemento nav é utilizado para agrupar links de navegação. O atributo que define o destino do link na tag a é o href.
 
 ## Atividade 7
 O atributo utilizado para identificar unicamente uma seção é o id. Para apontar para a seção sobre, o atributo deve ser escrito como href="#sobre".
 
 ## Atividade 8
-A tag utilizada para inserir uma imagem é a <img>. O atributo que define o caminho do arquivo é o src.
+A tag utilizada para inserir uma imagem é a img. O atributo que define o caminho do arquivo é o src.
 
 ## Atividade 9
-Devem ser utilizados os elementos <figure> (para agrupar a imagem) e <figcaption> (para a legenda).
+Devem ser utilizados os elementos figure (para agrupar a imagem) e figcaption (para a legenda).
 
 ## Atividade 10
 O endereço de destino de um link é definido pelo atributo href.
@@ -40,10 +40,10 @@ A tabela é representada por table; a linha por tr ; a célula de cabeçalho por
 Deve ser utilizado o prefixo mailto: seguido do endereço de e-mail (exemplo: mailto:contato@exemplo.com).
 
 ## Atividade 14
-O elemento <footer deve ser utilizado para representar o rodapé de um documento.
+O elemento footer deve ser utilizado para representar o rodapé de um documento.
 c
 ## Atividade 15
-Deve ser utilizada a tag <link>. O atributo que informa que é uma folha de estilos é o rel="stylesheet".
+Deve ser utilizada a tag link. O atributo que informa que é uma folha de estilos é o rel="stylesheet".
 
 ## Atividade 16
 A propriedade CSS que define a família da fonte é a font-family.
